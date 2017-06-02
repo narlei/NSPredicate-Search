@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'NSPredicateSearch'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'A NSPredicate category to help with a dinamic Search (smart search)'
 
 # This description is used to generate tags and improve search results.

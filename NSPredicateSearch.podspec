@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'NSPredicateSearch'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of NSPredicateSearch.'
+  s.summary          = 'A NSPredicate category to help with a dinamic Search (smart search)'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,15 +18,16 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+  A NSPrecicate to smart search as Google Search in Array, works with Objective-C and Swift.
+  Use to a dinamic search in tableviews with local data. Fast and Smart.
                        DESC
 
-  s.homepage         = 'https://github.com/Narlei A Moreira/NSPredicateSearch'
+  s.homepage         = 'https://github.com/narlei/NSPredicate-Search.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Narlei A Moreira' => 'narlei.guitar@gmail.com' }
-  s.source           = { :git => 'https://github.com/Narlei A Moreira/NSPredicateSearch.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.source           = { :git => 'https://github.com/narlei/NSPredicate-Search.git', :tag => s.version.to_s }
+  s.social_media_url = 'https://twitter.com/narleiguitar'
 
   s.ios.deployment_target = '8.0'
 

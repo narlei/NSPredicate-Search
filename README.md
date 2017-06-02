@@ -1,8 +1,6 @@
 # NSPredicateSearch
 
 A NSPredicate category to help with a dinamic Search (smart search)
-
-[![CI Status](http://img.shields.io/travis/Narlei A Moreira/NSPredicateSearch.svg?style=flat)](https://travis-ci.org/Narlei A Moreira/NSPredicateSearch)
 [![Version](https://img.shields.io/cocoapods/v/NSPredicateSearch.svg?style=flat)](http://cocoapods.org/pods/NSPredicateSearch)
 [![License](https://img.shields.io/cocoapods/l/NSPredicateSearch.svg?style=flat)](http://cocoapods.org/pods/NSPredicateSearch)
 [![Platform](https://img.shields.io/cocoapods/p/NSPredicateSearch.svg?style=flat)](http://cocoapods.org/pods/NSPredicateSearch)
@@ -12,6 +10,7 @@ A NSPredicate category to help with a dinamic Search (smart search)
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
+iOS 8 +
 
 ## Installation
 

@@ -1,0 +1,6 @@
+framework module NSPredicateSearch {
+  umbrella header "NSPredicateSearch-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "NSPredicateSearch",
+  "version": "0.1.0",
+  "summary": "A short description of NSPredicateSearch.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Narlei A Moreira/NSPredicateSearch",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Narlei A Moreira": "narlei.guitar@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Narlei A Moreira/NSPredicateSearch.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NSPredicateSearch/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - NSPredicateSearch (0.1.0)
+
+DEPENDENCIES:
+  - NSPredicateSearch (from `../`)
+
+EXTERNAL SOURCES:
+  NSPredicateSearch:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NSPredicateSearch: 54c06f698761d449faac033b852fdf2fc620a734
+
+PODFILE CHECKSUM: bd92de8d9616a2b9bb6ae41b602dff71a29f259c
+
+COCOAPODS: 1.2.1

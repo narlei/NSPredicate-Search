@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NSPredicateSearch_Example' do
+  pod 'NSPredicateSearch', :path => '../'
+
+  target 'NSPredicateSearch_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

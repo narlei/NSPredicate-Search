@@ -42,7 +42,7 @@ pod "NSPredicateSearch"
 
 ## Author
 
-Narlei A Moreira, narlei.guitar@gmail.com
+Narlei A Moreira, contato@narlei.com
 
 ## License
 
